@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CustomerManager</string>
+    //
+    <string name="Edit_Uuid">Uuid:</string>
+    <string name="Edit_Name">Name:</string>
+
+
 </resources>
